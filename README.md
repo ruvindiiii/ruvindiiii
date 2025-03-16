@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img alt="Coding" height="220" width="1000" src="./girl-window.gif" style="object-fit:cover">
+  <img alt="Coding" height="220" width="1000" src="./girl-window.gif">
 </div>
 
 ## 👩🏽 About Me
