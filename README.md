@@ -12,9 +12,9 @@
 
 I'm a fullstack developer with a focus on frontend development. Passionate about creating impactful software.
 
-- 🔭 I'm currently working at Intellogic
-- 🌱 I'm constantly learning and exploring new technologies
-- 👯 I'm looking to contribute on interesting open source projects
+- 🔭 Currently working at Intellogic
+- 🌱 Constantly learning and exploring new technologies
+- 👯 Looking to contribute to interesting open source projects
 
 ## 🛠️ Technologies & Tools
 
