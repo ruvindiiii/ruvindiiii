@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Ruvi 👩🏽‍💻
+# Hi! 👋🏼 I'm Ruvi 👩🏽‍💻
 
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?pause=1000&color=F196F3&vCenter=true&lines=Frontend+developer;Bug+squasher;Fullstack+enthusiast;Pixel+pusher" alt="Intro" />
