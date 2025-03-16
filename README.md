@@ -8,7 +8,7 @@
   <img alt="Coding" height="220" width="1000" src="./girl-window.gif" style="object-fit:cover">
 </div>
 
-## About Me
+## 👩🏽 About Me
 
 I'm a fullstack developer with a focus on frontend development. Passionate about creating impactful software.
 
@@ -109,20 +109,25 @@ I'm a fullstack developer with a focus on frontend development. Passionate about
 
 ## Socials
 
-<div align="left" style="display: flex; align-items: center;">
-  <div style="width: 40px; height: 40px; display: flex; align-items: center; margin-right: 15px;">
-    <a href="https://nl.linkedin.com/in/ruvindi-hulangamuwa" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
-    </a>
-  </div>
-  <div style="width: 40px; height: 40px; display: flex; align-items: center;margin-right: 15px;">
-    <a href="mailto:ruvindihulangamuwa@gmail.com">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40">
-    </a>
-  </div>
-  <div style="width: 40px; height: 40px; display: flex; align-items: center;">
-    <a href="https://medium.com/@ruvindihulangamuwa" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" width="34" height="34" style="filter: invert(1);">
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="96" height="96">
+      <a href="https://nl.linkedin.com/in/ruvindi-hulangamuwa" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn">
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="96" height="96">
+      <a href="mailto:ruvindihulangamuwa@gmail.com">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="48" alt="Email">
+      </a>
+      <br>Email
+    </td>
+    <td align="center" width="96" height="96">
+      <a href="https://medium.com/@ruvindihulangamuwa" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" width="48" alt="Medium" style="filter: invert(1)">
+      </a>
+      <br>Medium
+    </td>
+  </tr>
+</table>
